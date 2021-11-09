@@ -1,0 +1,2 @@
+# bdOrus
+my proyectyo
